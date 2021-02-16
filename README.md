@@ -9,6 +9,8 @@ restore the Bootloader on bricked ARM MCUs ore flash a precompiled firmware
 ## Version A 
 Setup is as follows
 
+
+
 ### Project Log
 * 1st Mockup done
 
