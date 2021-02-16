@@ -6,6 +6,9 @@ restore the Bootloader on bricked ARM MCUs ore flash a precompiled firmware
 * easy usage
 * based on DAP- library
 
+##Project Log
+* 1st Mockup done
+
 
 ## Supported ARM MCUs
 **ATMEL / Microchip**
