@@ -14,7 +14,7 @@ After verifying, the green led blinks. flashing the target is done.
 
 If the red led lights up, check your sd- card wiring, the name of the firmware file and if the target controller is supported.
 
-*Info: to burn the firmware on the debugger, a SWD- Programmer like an ATMEL ICE 3 is needed*
+*Info: to burn the firmware on the debugger, a SWD- Programmer like an ATMEL ICE 3 is required*
 
 ### Project Log
 * 1st Mockup done
