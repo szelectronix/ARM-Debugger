@@ -1,5 +1,5 @@
 # ARM-Debugger
-restore the Bootloader on bricked ARM MCUs ore flash a precompiled firmware
+restore the Bootloader on bricked ARM MCUs or flash a precompiled firmware
 
 * small formfactor
 * load firmware per sd- card
