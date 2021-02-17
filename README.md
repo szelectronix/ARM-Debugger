@@ -1,4 +1,4 @@
-# ARM-Unbricker
+# ARM-Debugger
 restore the Bootloader on bricked ARM MCUs ore flash a precompiled firmware
 
 * small formfactor
