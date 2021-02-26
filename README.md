@@ -7,6 +7,9 @@ restore the Bootloader on bricked ARM MCUs or flash a precompiled firmware
 * based on DAP- library
 
 ## Version A usage
+
+![Image description](https://github.com/szelectronix/ARM-Debugger/blob/master/VarianteA/schematic.png)
+
 Load a precompiled .bin file to the sd card. This file must be named as "fw.bin".
 Connect the SD card and Target with the unbricker. Plug the Unbricker in an USB port, the green led will light up.
 Push the Button, the orange led will light up.
