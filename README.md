@@ -28,6 +28,8 @@ If the red led lights up, check your sd- card wiring, the name of the firmware f
 ### Project Log
 * 1st Mockup done
 
+![](https://github.com/szelectronix/ARM-Debugger/blob/main/VersionA/va.jpg)
+
 ## Supported ARM MCUs
 **ATMEL / Microchip**
 * SAM D09D14A
