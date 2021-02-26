@@ -8,7 +8,7 @@ restore the Bootloader on bricked ARM MCUs or flash a precompiled firmware
 
 ## Version A usage
 
-![Image description](https://github.com/szelectronix/ARM-Debugger/blob/master/VarianteA/schematic.png)
+![Image](VarianteA/schematic.png)
 
 
 Load a precompiled .bin file to the sd card. This file must be named as "fw.bin".
