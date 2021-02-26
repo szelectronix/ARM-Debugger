@@ -10,9 +10,9 @@ restore the Bootloader on bricked ARM MCUs or flash a precompiled firmware
 
 ### Pinout
 
-![](https://raw.githubusercontent.com/szelectronix/ARM-Debugger/main/VersionA/Pinout.png?token=ARS273CQESCZDL6YQ3WTAXLAHFNAU)
+![](https://github.com/szelectronix/ARM-Debugger/blob/main/VersionA/Pinout.png)
 
-Connect the sd card as shown in the picture below.
+Connect the sd card and the target as shown in the picture below.
 
 ![](https://github.com/szelectronix/ARM-Debugger/blob/main/VersionA/Schematic.png)
 
