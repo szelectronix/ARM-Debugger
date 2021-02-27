@@ -17,7 +17,7 @@ Connect the sd card and the target as shown in the picture below.
 ![](https://github.com/szelectronix/ARM-Debugger/blob/main/VersionA/Schematic.png)
 
 Load a precompiled .bin file to the sd card. This file must be named as "fw.bin".
-Connect the SD card and Target with the unbricker. Plug the Unbricker in an USB port, the green led will light up.
+Connect the SD card and Target with the ARM- Debugger. Plug the Debugger in an USB port, the green led will light up.
 Push the Button, the orange led will light up.
 After verifying, the green led blinks. flashing the target is done.
 
