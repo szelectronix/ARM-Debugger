@@ -8,6 +8,8 @@ restore the Bootloader on bricked ARM MCUs or flash a precompiled firmware
 
 ## Version A usage
 
+Version A uses a SAM D11D14A MCU.
+
 ### Pinout
 
 ![](https://github.com/szelectronix/ARM-Debugger/blob/main/VersionA/Pinout.png)
