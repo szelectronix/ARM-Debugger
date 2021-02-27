@@ -23,8 +23,10 @@ After verifying, the green led blinks. flashing the target is done.
 
 If the red led lights up, check your sd- card wiring, the name of the firmware file and if the target controller is supported.
 
-***Info: to burn the firmware on the debugger, a SWD- Programmer like an ATMEL ICE 3 is required***
-***Alternatively, if you do not have an SWD programmer, you can use [these](https://learn.adafruit.com/programming-an-m0-using-an-arduino) instructions***
+-----
+***Info: to burn the firmware on the debugger, a SWD- Programmer like an ATMEL ICE 3 is required.***  
+***Alternatively, if you do not have an SWD programmer, you can use [these](https://learn.adafruit.com/programming-an-m0-using-an-arduino) instructions.***
+-----
 
 ### Project Log
 * 1st Mockup done
